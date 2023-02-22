@@ -8,7 +8,9 @@ You will be using this data to create machine learning models to classify the ri
 ## Instructions
 
 ### Retrieve the Data
-The data is located in the Challenge Files Folder: lending_data.csv
+The data is located in the Challenge Files Folder: 
+<code>lending_data.csv</code>
+
 Import the data using Pandas. Display the resulting dataframe to confirm the import was successful.
 
 ### Predict Model Performance
